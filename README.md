@@ -5,7 +5,7 @@
 
 ---
 
-## 🇩🇪 Projektbeschreibung
+## Projektbeschreibung
 
 **slashone.io** ist ein Tool zur Verwaltung von Kapitalanlagen, das sich auf das Wesentliche konzentriert.  
 Kein Börsentrubel, keine unnötigen Funktionen – sondern klare Struktur und volle Kontrolle.
@@ -19,7 +19,7 @@ Der Quellcode ist **privat**. Dieses Repository dient ausschließlich zur öffen
 
 ---
 
-## 🇬🇧 Project Description
+## Project Description
 
 **slashone.io** is a portfolio management tool focused on essentials.  
 No stock market hype, no unnecessary features – just structure, clarity, and control.
@@ -33,7 +33,7 @@ The source code is **private**. This repository is for public project visibility
 
 ---
 
-## 🔗 Kontakt & Infos
+## Kontakt & Infos
 
 Projekt von **[SKIMI3D](https://skimi3d.com)**  
 Weitere Projekte: [Omnopolis](https://omnopolis.com)
