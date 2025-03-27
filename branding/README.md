@@ -12,7 +12,7 @@ slashone ist mehr als ein Interface – es ist Haltung. Präsenz. Richtung.
 
 **Enthaltene Dateien:**
 - Logo (SVG, PNG, Schwarzweiß)
-- Wortmarke `slashone`, Produktmarke `/one`, Icon `/`
+- Wortmarke `slashone`, Produktmarke `/one`, Icon `/o`
 - Schriftzug / Typografie (lokal gehostet)
 - Farbdefinitionen (z. B. `palette.txt`)
 - Manifest (`manifest.md`)
@@ -32,7 +32,7 @@ slashone is more than an interface – it's focus. Presence. Direction.
 
 **Included files:**
 - Logo (SVG, PNG, black & white)
-- Wordmark `slashone`, product marker `/one`, icon `/`
+- Wordmark `slashone`, product marker `/one`, icon `/o`
 - Typography (locally hosted)
 - Color definitions (e.g., `palette.txt`)
 - Manifest (`manifest.md`)
