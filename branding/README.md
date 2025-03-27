@@ -5,7 +5,7 @@
 
 ---
 
-## DE Inhalt
+## 🇩🇪 Inhalt
 
 Dieser Ordner dokumentiert die offizielle visuelle Gestaltung des Projekts `slashone.io`.  
 slashone ist mehr als ein Interface – es ist Haltung. Präsenz. Richtung.
