@@ -1,40 +1,41 @@
-# slashone.io
+# slashone.io – Branding
 
-> Radikal einfach. Minimalistisch. Langfristig.  
-> A radically simple portfolio tool – built for clarity and patience.
-
----
-
-## Projektbeschreibung
-
-**slashone.io** ist ein Tool zur Verwaltung von Kapitalanlagen, das sich auf das Wesentliche konzentriert.  
-Kein Börsentrubel, keine unnötigen Funktionen – sondern klare Struktur und volle Kontrolle.
-
-**Ziele:**
-- Konzentration auf langfristige Vermögensbildung
-- Entkopplung von hektischen Finanzplattformen
-- Klarheit statt Reizüberflutung
-
-Der Quellcode ist **privat**. Dieses Repository dient ausschließlich zur öffentlichen Projektpräsenz.
+> Visuelle Identität des Projekts slashone.io  
+> Visual identity for the project slashone.io
 
 ---
 
-## Project Description
+## 🇩🇪 Projektbeschreibung
 
-**slashone.io** is a portfolio management tool focused on essentials.  
-No stock market hype, no unnecessary features – just structure, clarity, and control.
+**slashone.io** ist eine minimalistische App zur Verwaltung von Kapitalanlagen – fokussiert auf das Wesentliche.  
+Kein Börsentrubel, keine Ablenkung, keine unnötigen Funktionen.  
+Sondern: **Struktur. Langfristigkeit. Kontrolle.**
 
-**Goals:**
-- Focus on long-term asset building
-- Disconnection from noisy financial platforms
-- Clarity over distraction
+### Ziele:
 
-The source code is **private**. This repository is for public project visibility only.
+- Konzentration auf langfristige Vermögensbildung  
+- Entkopplung von hektischen Finanzplattformen  
+- Klarheit statt Reizüberflutung  
+
+Der Quellcode ist privat. Dieses Repository dient ausschließlich zur öffentlichen Projektpräsenz.
 
 ---
 
-## Kontakt & Infos
+## 🇬🇧 Project Description
 
-Projekt von **[SKIMI3D](https://skimi3d.com)**  
-Weitere Projekte: [Omnopolis](https://omnopolis.com)
+**slashone.io** is a radically simple portfolio app – built for clarity and long-term focus.  
+No market noise, no distractions, no unnecessary features.  
+Just: **structure, consistency, control.**
+
+### Goals:
+
+- Focus on long-term asset building  
+- Disconnection from noisy financial platforms  
+- Clarity over distraction  
+
+The source code is private. This repository is for public project visibility only.
+
+---
+
+Maintained by [SKIMI3D](https://skimi3d.com)
 
