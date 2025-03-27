@@ -5,7 +5,7 @@
 
 ---
 
-## 🇩🇪 Inhalt
+## Inhalt
 
 Dieser Ordner dokumentiert die offizielle visuelle Gestaltung des Projekts `slashone.io`.  
 slashone ist mehr als ein Interface – es ist Haltung. Präsenz. Richtung.
@@ -25,7 +25,7 @@ Jegliche Nutzung außerhalb des Projekts `slashone.io` ist untersagt.
 
 ---
 
-## EN Content
+## Content
 
 This folder documents the official visual identity of the project `slashone.io`.  
 slashone is more than an interface – it's focus. Presence. Direction.
