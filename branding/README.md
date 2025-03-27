@@ -1,7 +1,7 @@
 # slashone.io – Branding
 
-> 🎯 Visuelle Identität des Projekts slashone.io  
-> 🎯 Visual identity for the project slashone.io
+> Visuelle Identität des Projekts slashone.io  
+> Visual identity for the project slashone.io
 
 ---
 
@@ -45,7 +45,7 @@ Any usage outside of the project `slashone.io` is strictly prohibited.
 
 ---
 
-## 📄 Manifest
+## Manifest
 
 > Wir glauben nicht an Geschwindigkeit.  
 > Wir glauben an Richtung.  
@@ -57,4 +57,4 @@ Das vollständige Manifest findest du in [`branding/manifest.md`](branding/manif
 
 ---
 
-📌 Maintained by [SKIMI3D](https://skimi3d.com)
+Maintained by [SKIMI3D](https://skimi3d.com)

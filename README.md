@@ -15,7 +15,7 @@ Kein Börsentrubel, keine unnötigen Funktionen – sondern klare Struktur und v
 - Entkopplung von hektischen Finanzplattformen
 - Klarheit statt Reizüberflutung
 
-📌 Der Quellcode ist **privat**. Dieses Repository dient ausschließlich zur öffentlichen Projektpräsenz.
+Der Quellcode ist **privat**. Dieses Repository dient ausschließlich zur öffentlichen Projektpräsenz.
 
 ---
 
@@ -29,7 +29,7 @@ No stock market hype, no unnecessary features – just structure, clarity, and c
 - Disconnection from noisy financial platforms
 - Clarity over distraction
 
-📌 The source code is **private**. This repository is for public project visibility only.
+The source code is **private**. This repository is for public project visibility only.
 
 ---
 
