@@ -53,7 +53,7 @@ Any usage outside of the project `slashone.io` is strictly prohibited.
 > Kapitalanlage ist kein Spiel.  
 > Sie ist eine Entscheidung – für Verantwortung, für Zukunft, für Klarheit.  
 
-Das vollständige Manifest findest du in [`branding/manifest.md`](branding/manifest.md).
+Das vollständige Manifest findest du in [`manifest.md`](./manifest.md).
 
 ---
 
