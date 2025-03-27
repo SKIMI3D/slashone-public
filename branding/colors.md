@@ -3,7 +3,7 @@
 slashone verwendet ein bewusst reduziertes Farbsystem, das Klarheit, Ruhe und Struktur vermittelt.  
 Farben dienen der Orientierung – nicht der Dekoration.
 
-## 🎨 Primärfarben
+## Primärfarben
 
 **Schwarz**  
 Hex: `#000000`  
@@ -13,7 +13,7 @@ Verwendung: Text, Haupt-Icons, Buttons
 Hex: `#FFFFFF`  
 Verwendung: Hintergrund, Kontrastfläche
 
-## 🔷 Akzentfarbe (optional, sparsam)
+## Akzentfarbe (optional, sparsam)
 
 **Signalrot**  
 Hex: `#E63946`  
@@ -23,7 +23,7 @@ Verwendung: dezente Markierung, Hinweise, CTAs
 Hex: `#0077B6`  
 Verwendung: visuelle Ruhepunkte, ausgewählte Icons
 
-## 🧱 Neutraltöne (Interface-Struktur)
+## Neutraltöne (Interface-Struktur)
 
 **Hellgrau**  
 Hex: `#F2F2F2`  
